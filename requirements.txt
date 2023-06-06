@@ -1,0 +1,13 @@
+# Python version suggested: 3.9.12
+
+# Torch and training requirements
+# torch==1.11.0   # To install it with cuda: "conda install pytorch=1.11.0 cudatoolkit==11.3 -c pytorch"
+
+# ONNX requirements
+onnx==1.11.0
+onnxruntime-gpu==1.11.1
+onnx-simplifier==0.3.10
+protobuf==3.20.0
+
+# Additional requirements
+numpy==1.22.4
